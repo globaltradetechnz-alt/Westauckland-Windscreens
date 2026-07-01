@@ -1,0 +1,62 @@
+{
+  "name": "West Auckland Windscreen Specialists",
+  "description": "Windscreen and auto glass replacement across West Auckland. Mobile fitting to every suburb, same-day service, insurance claims handled.",
+  "website": "https://westaucklandwindscreens.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Windscreen Replacement",
+      "url": "https://westaucklandwindscreens.co.nz/"
+    },
+    {
+      "name": "Side Glass",
+      "url": "https://westaucklandwindscreens.co.nz/"
+    },
+    {
+      "name": "Back Glass",
+      "url": "https://westaucklandwindscreens.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://westaucklandwindscreens.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://westaucklandwindscreens.co.nz/"
+    }
+  ],
+  "specialty": "West Auckland windscreen replacement",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://westaucklandwindscreens.co.nz/",
+    "contact": "https://westaucklandwindscreens.co.nz/contact.html"
+  },
+  "sitemap": "https://westaucklandwindscreens.co.nz/sitemap.xml",
+  "robots": "https://westaucklandwindscreens.co.nz/robots.txt",
+  "llms": "https://westaucklandwindscreens.co.nz/llms.txt",
+  "mcp": "https://westaucklandwindscreens.co.nz/.well-known/mcp.json"
+}
