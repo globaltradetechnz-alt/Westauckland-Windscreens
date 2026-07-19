@@ -130,11 +130,11 @@ a.chip:hover{border-color:var(--a);color:var(--ad);text-decoration:none}
 .footer-brand .logo{width:50px;height:50px;border-radius:10px;background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;margin-bottom:14px}
 .footer-brand .logo span{color:var(--a)}
 .footer-brand p{font-size:.92rem;margin:12px 0 16px}
-.partners{border-top:1px solid rgba(255,255,255,.12);margin-top:44px;padding:30px 0}
-.partners h4{color:#fff;font-size:.92rem;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:14px;text-align:center}
-.partners .plinks{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.partners .plinks a{color:#cdd9e6;font-size:.86rem;background:rgba(255,255,255,.06);padding:7px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.10)}
-.partners .plinks a:hover{color:#fff;background:rgba(245,158,11,.25);border-color:var(--a);text-decoration:none}
+
+
+
+
+
 .copyright{border-top:1px solid rgba(255,255,255,.12);padding:20px 0;text-align:center;font-size:.85rem;color:#8ea1b5}
 .page-hero{background:var(--grad);color:#fff;padding:56px 0 50px;text-align:center;position:relative;overflow:hidden}
 .page-hero::after{content:"";position:absolute;left:-100px;bottom:-140px;width:400px;height:400px;background:radial-gradient(circle,rgba(245,158,11,.28),transparent 70%);border-radius:50%}
